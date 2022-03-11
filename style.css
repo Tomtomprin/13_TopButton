@@ -1,0 +1,29 @@
+.header {
+    background: lightblue;
+    color: fff;
+    width: 100%;
+    height: 90px;
+}
+
+.page-top {
+    position: absolute;
+
+    width: 200px;
+    height: 200px;
+    bottom: 30px;
+    right: 30px;
+    background: lightpink;
+
+
+}
+
+
+
+/* ↓当例を作成するため、便宜的に設定したのみ */
+
+.empty_box_for_this_example {
+    height: 3000px;
+    width: 100%;
+    background: lightyellow;
+    position: relative;
+}
